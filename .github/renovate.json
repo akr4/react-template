@@ -1,0 +1,3 @@
+{
+  "extends": ["github>aiiro-systems/renovate-config"]
+}
